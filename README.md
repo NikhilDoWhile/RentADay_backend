@@ -64,8 +64,8 @@ RentADay provides an easily accessible platform for renting and leasing spaces (
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<!-- Backend -->
-<h2 id="Backend"> Backend </h2>
+<!-- Frontend -->
+<h2 id="Frontend"> Frontend </h2>
 
 
 RentADay Frontend link: https://github.com/harsimran612/RentADay
